@@ -1,5 +1,8 @@
 h1 {
   font-family: arial;
   font-size: 200px;
-  text-align: center;
+}
+
+.center {
+text-align: center;
 }
